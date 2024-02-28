@@ -7,5 +7,5 @@ module.exports = {
   OWNER: "94775200935", //Enter Owner Number
   USER_NAME: "user1", //Enter Your UserName
   PASSWORD: "password1", //Enter Your Password
-  GROUP_JID: ["120363247261168928"] //News Group Jid
+  GROUP_JID: ["120363179307113629@g.us"] //News Group Jid
 };
